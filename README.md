@@ -1,6 +1,6 @@
 ## React's Higher Order Component
 
-- [x] TypeScript
+- TypeScript
 - https://medium.freecodecamp.org/react-higher-order-components-635d0bc38b6c
 
 ## Start
